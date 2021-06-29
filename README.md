@@ -16,7 +16,7 @@ Java version – 1.8
 
 -CREATE SCHEMA `springbootjpajwtsecuritydb`;
 
--DataBase which i have used also have given.
+-DataBase which I used also have been given.(springbootjpajwtsecuritydb)
 
 ----------------------------------------------------------------------
 
