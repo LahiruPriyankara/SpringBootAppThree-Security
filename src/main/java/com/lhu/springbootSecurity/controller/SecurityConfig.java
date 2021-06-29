@@ -90,6 +90,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter{
 		.and()
 		.formLogin()
 		.loginPage("/login")
+		.successForwardUrl("/userDetail")
 		.permitAll()
 		.and()
 		.logout().invalidateHttpSession(true)
