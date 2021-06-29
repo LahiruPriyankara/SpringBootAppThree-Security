@@ -24,10 +24,12 @@ http://localhost:8080/login
 
 daoAuthProvider.setPasswordEncoder(NoOpPasswordEncoder.getInstance());
 //daoAuthProvider.setPasswordEncoder(new BCryptPasswordEncoder());
+
 user name : lahiru | password : lahiru
 
-
+----------------------------------------------------------------------
 
 //daoAuthProvider.setPasswordEncoder(NoOpPasswordEncoder.getInstance());
 daoAuthProvider.setPasswordEncoder(new BCryptPasswordEncoder());
+
 user name : lahiru123 | password : lahiru123
